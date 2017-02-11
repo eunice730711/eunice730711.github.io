@@ -137,7 +137,9 @@
 
 										// Force scroll to top.
 											$hbw.animate({
-												scrollTop: 0
+//												scrollTop: 0
+//                                              scrollDown: 0
+                                        
 											}, settings.resizeSpeed, 'swing');
 
 										// Reposition.
